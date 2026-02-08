@@ -23,7 +23,7 @@ setup(
 name = 'ml-student-performance-indicator',
 version = '0.0.1',
 author = 'Hassan',
-author_email = 'hassankhan',
+author_email = 'hassankhan7571@gmai.com',
 packages = find_packages(),
 install_requires=get_requirements('requirements.txt')
 
