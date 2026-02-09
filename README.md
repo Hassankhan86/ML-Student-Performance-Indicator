@@ -1,1 +1,1 @@
-## End to End MAchine Learning Project
+## End to End Machine Learning Student Performance Indicator Project
