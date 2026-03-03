@@ -1,10 +1,17 @@
-pandas
-numpy
-seaborn
-matplotlib
-scikit-learn
-catboost
-xgboost
-Flask
-dill
+xgboost==2.1.4
+setuptools==80.9.0
+scikit-learn==1.6.1
+seaborn==0.13.2
+pillow==11.3.0
+pandas==2.3.3
+numpy==2.0.2
+pip==25.3
+plotly==6.5.2
+Flask==3.1.2
+matplotlib==3.9.4
+matplotlib-inline==0.2.1
+catboost==1.2.8
+decorator==5.2.1
+dill==0.4.1
+
 # -e .
